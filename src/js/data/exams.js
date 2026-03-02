@@ -40,7 +40,7 @@ export const exams = [
       description: "Arcaea共通テスト",
       links: {
           question: "../../public/assets/2026/2026_question_01.pdf",
-          answer: "../../public/assets/2026/2026_answer_01.pdf",
+          answer: "public/assets/2026/2026_answer_01.pdf",
           form: "https://docs.google.com/forms/d/e/1FAIpQLSdbwH0C1dw6ubCxotYqr0XpXJqIVglmb9HaDA46SOMcvZB5KQ/viewform?usp=header"  // Google Form link (set to actual URL when available)
       },
       stats: {
